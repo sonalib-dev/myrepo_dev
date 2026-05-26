@@ -1,0 +1,23 @@
+/* Change the background of the entire webpage */
+body {
+    background-color: #f8f0f1; /* A soft, light blue-grey background */
+    font-family: Arial, sans-serif; /* Changes the text font */
+    margin: 40px; /* Adds space around the edge of the page */
+}
+
+/* Change the style of the main heading */
+h1 {
+    color: #2d2c50; /* A deep navy blue color */
+    font-size: 36px; /* Makes the heading larger */
+    text-align: center; /* Centers the heading text */
+    text-transform: uppercase; /* Makes the text all CAPITAL LETTERS */
+    border-bottom: 2px solid #2c3e50; /* Adds a stylish line underneath */
+    padding-bottom: 10px; /* Adds space between the text and the line */
+}
+
+/* Change the style of subheadings (optional) */
+h2 {
+    color: #59a016; /* A nice teal color */
+    font-size: 24px;
+    margin-top: 20px;
+}
